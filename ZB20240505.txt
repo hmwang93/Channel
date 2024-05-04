@@ -126,8 +126,8 @@ CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/in
 西藏卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?AuthInfo=Kgq9oZls%2F0LFdnWkV6XKjcemen%2FrJ13GEDfSTzbh7UxUrQNs2He4Jft322wTZAuZeUodzEZrZcXcJKDD6r3Z2A%3D%3D
 兵团卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 
-影视综合,#genre#
 
+影视综合,#genre#
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
@@ -189,8 +189,80 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-蓝球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
+台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+
+斗鱼轮播,#genre#
+豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+点播华语,http://159.75.85.63:35455/douyu/434971
+点播华语HD,http://159.75.85.63:35455/douyu/3928
+吃米滴虫,http://159.75.85.63:35455/douyu/315457
+吃奶滴虫,http://159.75.85.63:35455/douyu/263824
+神乐影片,http://159.75.85.63:35455/douyu/85894
+神乐影片,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+特辑影院,http://159.75.85.63:35455/douyu/3637778
+刘德华电影1,http://159.75.85.63:35455/douyu/2516864
+林正英电影1,http://159.75.85.63:35455/douyu/218859
+林正英电影2,http://159.75.85.63:35455/douyu/7356023
+贝爷影厅1,http://159.75.85.63:35455/douyu/252802
+贝爷影厅2,http://159.75.85.63:35455/douyu/36337
+贝爷MAX,http://159.75.85.63:35455/douyu/4332
+漫威影片,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨,http://159.75.85.63:35455/douyu/8814650
+邦德影院,http://43.138.170.29:35455/douyu/9292499
+可乐电影,http://159.75.85.63:35455/douyu/20415
+苹果影院,http://159.75.85.63:35455/douyu/2793084
+变种人片,http://159.75.85.63:35455/douyu/9651304
+冰冰经典,http://159.75.85.63:35455/douyu/74374
+星爷影院,http://159.75.85.63:35455/douyu/508118
+瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
+鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
+怡寶影院,http://159.75.85.63:35455/douyu/434971
+小黛兮影,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片,http://159.75.85.63:35455/douyu/3928
+小宇60帧,http://159.75.85.63:35455/douyu/323876
+宇哥电影,http://43.138.170.29:35455/douyu/413573
+电影剧场,http://159.75.85.63:35455/douyu/7575350
+喜剧电影HD,http://159.75.85.63:35455/douyu/9292492
+欧美大片,http://159.75.85.63:35455/douyu/2793084
+看美剧,http://43.138.170.29:35455/douyu/8869614
+贝爷求生,http://43.138.170.29:35455/douyu/454867
+荒野建造者,http://43.138.170.29:35455/douyu/9611578
+
+解说_午夜故事,http://43.138.170.29:35455/douyu/8722254
+解说_一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
+
+斗鱼4K,http://159.75.85.63:35455/douyu/9249162
+《老三国》,http://159.75.85.63:35455/douyu/7459925
+连续剧3,http://159.75.85.63:35455/douyu/431460
+武侠电影,http://159.75.85.63:35455/douyu/4246519
+《天龙八部》,http://159.75.85.63:35455/douyu/7655471
+国产电影,http://159.75.85.63:35455/douyu/6566671
+连续剧4,http://159.75.85.63:35455/douyu/338759
+动作电影,http://159.75.85.63:35455/douyu/5033502
+斗鱼电影8,http://159.75.85.63:35455/douyu/6582435
+斗鱼电影9,http://159.75.85.63:35455/douyu/323876
+斗鱼电影HD1,http://159.75.85.63:35455/douyu/20415
+斗鱼电影HD2,http://159.75.85.63:35455/douyu/122402
+斗鱼电影HD3,http://159.75.85.63:35455/douyu/85894
+斗鱼电影HD4,http://159.75.85.63:35455/douyu/263824
+斗鱼电影HD5,http://159.75.85.63:35455/douyu/747764
+斗鱼电影HD6,http://159.75.85.63:35455/douyu/20415
+斗鱼电影HD7,http://159.75.85.63:35455/douyu/323876
+斗鱼电影HD8,http://159.75.85.63:35455/douyu/6140589
+斗鱼电影HD9,http://159.75.85.63:35455/douyu/8770422
+鬼片点播HD-1,http://159.75.85.63:35455/douyu/218859
+斗鱼电影HD11,http://159.75.85.63:35455/douyu/36337
+斗鱼电影HD12,http://159.75.85.63:35455/douyu/252802
+斗鱼电影HD13,http://159.75.85.63:35455/douyu/2516864
+斗鱼电影HD14,http://159.75.85.63:35455/douyu/9651304
+斗鱼电影HD15,http://159.75.85.63:35455/douyu/8814650
+斗鱼电影HD16,http://159.75.85.63:35455/douyu/1165374
+斗鱼电影HD17,http://159.75.85.63:35455/douyu/1226741
+蚂蚱影院HD,http://159.75.85.63:35455/douyu/6079455
+冰与火HD,http://159.75.85.63:35455/douyu/8945323
+
 
 YY轮播,#genre#
 
@@ -272,76 +344,7 @@ YY轮播,#genre#
 漫威英雄2,http://lives.taoiptv.com/yy/1354932402
 惊恐盗暮鬼怪,http://43.138.170.29:35455/yy/1382749525
 
-斗鱼轮播,#genre#
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-华语经典,http://159.75.85.63:35455/douyu/434971
-华语电影,http://159.75.85.63:35455/douyu/3928
-吃米滴虫,http://159.75.85.63:35455/douyu/315457
-吃奶滴虫,http://159.75.85.63:35455/douyu/263824
-神乐影片,http://159.75.85.63:35455/douyu/85894
-神乐影片,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-特辑影院,http://159.75.85.63:35455/douyu/3637778
-刘德华电影1,http://159.75.85.63:35455/douyu/2516864
-林正英电影1,http://159.75.85.63:35455/douyu/218859
-林正英电影2,http://159.75.85.63:35455/douyu/7356023
-贝爷影厅1,http://159.75.85.63:35455/douyu/252802
-贝爷影厅2,http://159.75.85.63:35455/douyu/36337
-贝爷MAX,http://159.75.85.63:35455/douyu/4332
-漫威影片,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨,http://159.75.85.63:35455/douyu/8814650
-邦德影院,http://43.138.170.29:35455/douyu/9292499
-可乐电影,http://159.75.85.63:35455/douyu/20415
-苹果影院,http://159.75.85.63:35455/douyu/2793084
-变种人片,http://159.75.85.63:35455/douyu/9651304
-冰冰经典,http://159.75.85.63:35455/douyu/74374
-星爷影院,http://159.75.85.63:35455/douyu/508118
-瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
-鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
-怡寶影院,http://159.75.85.63:35455/douyu/434971
-小黛兮影,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片,http://159.75.85.63:35455/douyu/3928
-小宇60帧,http://159.75.85.63:35455/douyu/323876
-宇哥电影,http://43.138.170.29:35455/douyu/413573
-电影剧场,http://159.75.85.63:35455/douyu/7575350
-喜剧电影HD,http://159.75.85.63:35455/douyu/9292492
-欧美大片,http://159.75.85.63:35455/douyu/2793084
-看美剧,http://43.138.170.29:35455/douyu/8869614
-贝爷求生,http://43.138.170.29:35455/douyu/454867
-荒野建造者,http://43.138.170.29:35455/douyu/9611578
 
-解说_午夜故事,http://43.138.170.29:35455/douyu/8722254
-解说_一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
-
-斗鱼4K,http://159.75.85.63:35455/douyu/9249162
-《老三国》,http://159.75.85.63:35455/douyu/7459925
-连续剧3,http://159.75.85.63:35455/douyu/431460
-武侠电影,http://159.75.85.63:35455/douyu/4246519
-《天龙八部》,http://159.75.85.63:35455/douyu/7655471
-国产电影,http://159.75.85.63:35455/douyu/6566671
-连续剧4,http://159.75.85.63:35455/douyu/338759
-动作电影,http://159.75.85.63:35455/douyu/5033502
-斗鱼电影8,http://159.75.85.63:35455/douyu/6582435
-斗鱼电影9,http://159.75.85.63:35455/douyu/323876
-斗鱼电影HD1,http://159.75.85.63:35455/douyu/20415
-斗鱼电影HD2,http://159.75.85.63:35455/douyu/122402
-斗鱼电影HD3,http://159.75.85.63:35455/douyu/85894
-斗鱼电影HD4,http://159.75.85.63:35455/douyu/263824
-斗鱼电影HD5,http://159.75.85.63:35455/douyu/747764
-斗鱼电影HD6,http://159.75.85.63:35455/douyu/20415
-斗鱼电影HD7,http://159.75.85.63:35455/douyu/323876
-斗鱼电影HD8,http://159.75.85.63:35455/douyu/6140589
-斗鱼电影HD9,http://159.75.85.63:35455/douyu/8770422
-鬼片点播HD-1,http://159.75.85.63:35455/douyu/218859
-斗鱼电影HD11,http://159.75.85.63:35455/douyu/36337
-斗鱼电影HD12,http://159.75.85.63:35455/douyu/252802
-斗鱼电影HD13,http://159.75.85.63:35455/douyu/2516864
-斗鱼电影HD14,http://159.75.85.63:35455/douyu/9651304
-斗鱼电影HD15,http://159.75.85.63:35455/douyu/8814650
-斗鱼电影HD16,http://159.75.85.63:35455/douyu/1165374
-斗鱼电影HD17,http://159.75.85.63:35455/douyu/1226741
-蚂蚱影院HD,http://159.75.85.63:35455/douyu/6079455
-冰与火HD,http://159.75.85.63:35455/douyu/8945323
 
 虎牙轮播,#genre#
 
@@ -714,21 +717,16 @@ YY轮播,#genre#
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 无线资讯开码,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
-翡翠台,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-公視,http://livetv.skycf.eu.org/live.m3u8?c=8
-台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-民視新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-tbvs新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-华視新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
 
 国际频道,#genre#
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -737,7 +735,6 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -752,17 +749,17 @@ Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 
+
 4K频道,#genre#
 爱上4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+
 
 四川IPTV,#genre#
 CHC家庭影院,http://171.88.174.168:8123/udp/239.93.42.6:5140 
@@ -922,8 +919,8 @@ CETV-4,http://171.88.174.168:8123/udp/239.93.0.50:5140
 动漫秀场,http://171.88.174.168:8123/udp/239.93.42.93:5140 
 早期教育,http://171.88.174.168:8123/udp/239.93.0.117:5140 
 
-重庆IPTV,#genre#
 
+重庆IPTV,#genre#
 CHC家庭影院,http://211.158.152.223:8007/udp/225.0.4.228:7980
 CHC动作电影,http://211.158.152.223:8007/udp/225.0.4.229:7980
 CHC高清电影,http://211.158.152.223:8007/udp/225.0.4.230:7980
@@ -942,7 +939,6 @@ CHC高清电影,http://211.158.152.223:8007/udp/225.0.4.230:7980
 音乐现场,http://211.158.152.223:8007/udp/225.0.4.148:7980
 求索纪录,http://211.158.152.223:8007/udp/225.0.4.232:7980
 茶高清,http://211.158.152.223:8007/udp/225.0.4.233:7980
-
 CCTV-1高清,http://211.158.152.223:8007/udp/225.0.4.74:7980
 CCTV-2高清,http://211.158.152.223:8007/udp/225.0.4.132:7980
 CCTV-3高清,http://211.158.152.223:8007/udp/225.0.4.142:7980
@@ -1090,6 +1086,7 @@ CCTV-13高清,http://211.158.152.223:8007/udp/225.0.4.219:7980
 CCTV-15高清,http://211.158.152.223:8007/udp/225.0.4.220:7980
 吉林卫视高清,http://211.158.152.223:8007/udp/225.0.4.225:7980
 
+
 北京IPTV,#genre#
 CCTV-1 HD,http://61.51.224.91:20005/udp/239.3.1.129:8008
 CCTV-2 HD,http://61.51.224.91:20005/udp/239.3.1.60:8084
@@ -1193,50 +1190,38 @@ CETV4,http://61.51.224.91:20005/udp/239.3.1.56:4120
 少儿动画,http://61.51.224.91:20005/udp/239.3.1.199:9000
 热播剧场,http://61.51.224.91:20005/udp/239.3.1.194:9020
 
+
 湖南IPTV,#genre#
-CHC家庭影院高清,http://118.254.203.236:8888/udp/239.76.252.241:9000
+CHC家庭影院,http://118.254.203.236:8888/udp/239.76.252.241:9000
 CHC高清电影,http://118.254.203.236:8888/udp/239.76.252.242:9000
-CHC动作电影高清,http://118.254.203.236:8888/udp/239.76.252.243:9000
-凤凰中文高清,http://118.254.203.236:8888/udp/239.76.253.134:9000
-凤凰资讯高清,http://118.254.203.236:8888/udp/239.76.253.135:9000
-凤凰中文高清,http://118.254.203.236:8888/udp/239.76.246.8:1234
-凤凰资讯高清,http://118.254.203.236:8888/udp/239.76.246.7:1234
+CHC动作电影,http://118.254.203.236:8888/udp/239.76.252.243:9000
+凤凰中文,http://118.254.203.236:8888/udp/239.76.253.134:9000
+凤凰资讯,http://118.254.203.236:8888/udp/239.76.253.135:9000
+凤凰中文,http://118.254.203.236:8888/udp/239.76.246.8:1234
+凤凰资讯,http://118.254.203.236:8888/udp/239.76.246.7:1234
+
 
 咪咕体育,#genre#
-咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播-2,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播-3,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播-4,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播-5,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播-6,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播-7,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播-8,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播-9,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播-10,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播-11,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播-12,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播-13,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播-13,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播-13,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播-14,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播-15,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播-16,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播-17,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-咪咕直播-18,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播-19,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播-20,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播-21,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播-22,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播-23,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播-24,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播-25,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播-26,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播-27,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播-28,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播-29,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播-30,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播-31,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播-32,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播-33,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播-34,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+健身直播,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+激情导播,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+足球直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+足球直播-2,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+足球直播-3,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+足球直播-4,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+足球直播-5,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+足球直播-6,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+乒乓直播-1,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+乒乓直播-2,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+乒乓直播-3,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+乒乓直播-4,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+篮球直播,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+台球直播,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+
+
 
