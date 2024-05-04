@@ -34,8 +34,7 @@ CCTV-13 新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN600005
 CCTV-14 少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8$湖北移动
 CCTV-15 音乐,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8$湖北移动
 CCTV-17 农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM$湖北移动
-CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE$湖北移动
-CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+
 
 央视数字,#genre#
 CCTV4k,http://tv.ddzb.fun:88/tv022/ysp.php?id=cctv4k$央视频
@@ -52,10 +51,13 @@ CCTV世界地理,http://tv.ddzb.fun:88/tv022/ysp.php?id=sjdl$央视频
 CCTV高尔夫网球,http://tv.ddzb.fun:88/tv022/ysp.php?id=gefwq$央视频
 CCTV央视台球,http://tv.ddzb.fun:88/tv022/ysp.php?id=ystq$央视频
 CCTV卫生健康,http://tv.ddzb.fun:88/tv022/ysp.php?id=wsjk$央视频
+CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE$湖北移动
 求索动物8M,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索纪录8M,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索科学8M,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活8M,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+
 
 卫视频道,#genre#
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -170,24 +172,22 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 蓝球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
