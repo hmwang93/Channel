@@ -142,9 +142,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-赵本山小品,https://www.goodiptv.club/douyu/9817716
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
-宋小宝小品,https://www.goodiptv.club/douyu/9817729
 东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
@@ -181,6 +178,9 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
+赵本山小品,https://www.goodiptv.club/douyu/9817716
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
@@ -343,11 +343,11 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 📡两岸三地,#genre#
-凤凰资讯,https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
 凤凰资讯,https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
+凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯,https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
 凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰中文,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -361,7 +361,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 无线资讯开码,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 
 
@@ -378,24 +377,23 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+俄·Самара萨马拉,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+美·AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+中东半岛·Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+土耳其·TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+杰德·Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+英国格斗·Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 🍁4K频道,#genre#
