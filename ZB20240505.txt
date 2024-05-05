@@ -179,8 +179,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 宋小宝小品,https://www.goodiptv.club/douyu/9817729
-赵本山小品,https://www.goodiptv.club/douyu/9817716
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
@@ -192,7 +190,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 篮球足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
+篮球台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 
 
@@ -227,7 +225,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 轮内剧_宇哥,http://43.138.170.29:35455/douyu/413573
 轮内剧_老三国,http://159.75.85.63:35455/douyu/7459925
 轮内剧_大秦帝国,http://159.75.85.63:35455/douyu/6582435
-点野_贝爷求生,http://43.138.170.29:35455/douyu/454867
+轮野_贝爷求生,http://43.138.170.29:35455/douyu/454867
 轮野_荒野建屋,http://43.138.170.29:35455/douyu/9611578
 解说_长工,http://43.138.170.29:35455/douyu/8869614
 解说_午夜故事,http://43.138.170.29:35455/douyu/8722254
@@ -309,12 +307,12 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 经典港片,http://cfss.cc/cdn/hy/11352965.flv
 经典港片,https://live.metshop.top/huya/11352965
 经典港片,https://www.goodiptv.club/huya/11352965
-巨石强森,http://cfss.cc/cdn/hy/21059581.flv
-巨石强森,https://live.metshop.top/huya/21059581
-巨石强森,https://www.goodiptv.club/huya/21059581
-杰森斯坦森,http://cfss.cc/cdn/hy/21059588.flv
-杰森斯坦森,https://live.metshop.top/huya/21059588
-杰森斯坦森,https://www.goodiptv.club/huya/21059588
+巨石·强森,http://cfss.cc/cdn/hy/21059581.flv
+巨石·强森,https://live.metshop.top/huya/21059581
+巨石·强森,https://www.goodiptv.club/huya/21059581
+杰森·斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+杰森·斯坦森,https://live.metshop.top/huya/21059588
+杰森·斯坦森,https://www.goodiptv.club/huya/21059588
 轮内剧_庆余年,http://cfss.cc/cdn/hy/11352960.flv
 轮内剧_庆余年,https://live.metshop.top/huya/11352960
 轮内剧_庆余年,https://www.goodiptv.club/huya/11352960
@@ -365,7 +363,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻1,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 俄·Самара萨马拉,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -379,10 +377,10 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 泰·ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+英·Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-杰德·Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-英·Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
