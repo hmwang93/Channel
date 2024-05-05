@@ -191,7 +191,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+篮球足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 台球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 
@@ -218,9 +218,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 点美_可乐,http://159.75.85.63:35455/douyu/20415
 点美_小宇,http://159.75.85.63:35455/douyu/323876
 点美_冰冰,http://159.75.85.63:35455/douyu/74374
-点美_科幻,http://159.75.85.63:35455/douyu/20415
-点美_激情,http://159.75.85.63:35455/douyu/263824
-点美_奇幻,http://159.75.85.63:35455/douyu/252802
 轮美_漫威,http://159.75.85.63:35455/douyu/6140589
 轮美_邦德,http://43.138.170.29:35455/douyu/9292499
 轮美_变种人,http://159.75.85.63:35455/douyu/9651304
@@ -368,32 +365,31 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻1,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄·Самара萨马拉,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+美·AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+土耳其·TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+泰·ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+杰德·Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+英·Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
-俄·Самара萨马拉,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-美·AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-美·NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美·NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-中东半岛·Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-土耳其·TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-越·ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-杰德·Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-英国格斗·Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 🍁4K频道,#genre#
@@ -525,10 +521,10 @@ CGTN西班牙语,http://171.88.174.168:8123/udp/239.93.42.49:5140
 CHC家庭影院,http://118.254.203.236:8888/udp/239.76.252.241:9000
 CHC高清电影,http://118.254.203.236:8888/udp/239.76.252.242:9000
 CHC动作电影,http://118.254.203.236:8888/udp/239.76.252.243:9000
-凤凰中文,http://118.254.203.236:8888/udp/239.76.253.134:9000
 凤凰资讯,http://118.254.203.236:8888/udp/239.76.253.135:9000
-凤凰中文,http://118.254.203.236:8888/udp/239.76.246.8:1234
 凤凰资讯,http://118.254.203.236:8888/udp/239.76.246.7:1234
+凤凰中文,http://118.254.203.236:8888/udp/239.76.253.134:9000
+凤凰中文,http://118.254.203.236:8888/udp/239.76.246.8:1234
 
 
 🏆咪咕体育,#genre#
